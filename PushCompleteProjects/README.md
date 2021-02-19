@@ -1,5 +1,5 @@
 # Pushing Projects
-Reminder of how to push existing projects to GitHub through git bash
+Step by step reminder on how to push a **completed** project (from local files) and push to GitHub using git
 
 ## On GitHub
 1. Create github repository (uncheck create README.md since we're pushing project)
